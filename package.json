@@ -1,0 +1,17 @@
+{
+  "name": "insta-like-app",
+  "version": "1.0.0",
+  "description": "Instagram like application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Tellez",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.2",
+    "express": "^4.14.0",
+    "instagram-node": "^0.5.8",
+    "nodemon": "^1.10.2"
+  }
+}
